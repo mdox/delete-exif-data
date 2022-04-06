@@ -3,4 +3,6 @@ Delete exif data for images.
 
 # Usage
 
-```$ yarn start```
+```bash
+$ yarn start
+```

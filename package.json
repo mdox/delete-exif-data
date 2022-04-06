@@ -1,0 +1,13 @@
+{
+  "name": "delete-exif-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "glob": "^7.2.0",
+    "sharp": "^0.30.3"
+  }
+}

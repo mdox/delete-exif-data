@@ -5,7 +5,7 @@ Delete exif data for images.
 
 - Create `source` folder
 - Create `target` folder
-- Copy your images to source folder
+- Copy your images to `source` folder
 - Run command:
 
 ```bash
